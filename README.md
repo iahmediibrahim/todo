@@ -6,3 +6,4 @@ Todo app.
 
 - Pure Javascript.
 - Add, delete, filter functionalities.
+- using babel, webpack.
